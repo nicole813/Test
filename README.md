@@ -10,11 +10,11 @@ MIPS-Lite CPU。
 
 # 實現指令
 完成下列16道指令  
-a) Integer Arithmetic: **add, sub, and, or, sll, slt, andi**  
-b) Integer Memory Access:  **lw, sw**  
-c) Integer Branch: beq, **j, jr**  
-d) Integer Multiply/Divide: **multu**  
-e) Other Instructions: **mfhi, mflo, nop**  
+a) Integer Arithmetic: **`add`, `sub`, `and`, `or`, `sll`, `slt`, `andi`**  
+b) Integer Memory Access:  **`lw`, `sw`**  
+c) Integer Branch: beq, **`j`, `jr`**  
+d) Integer Multiply/Divide: **`multu`**  
+e) Other Instructions: **`mfhi`, `mflo`, `nop`**  
 
 <br>
 
