@@ -6,4 +6,4 @@ MIPS-Lite CPU。
 
 
 ## Datapath
-![Pipelined Datapath](images/datapath.png)
+![Pipelined Datapath](image/datapath.png)
